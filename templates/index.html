@@ -1,0 +1,11 @@
+Ravintoloita yhteensä: {{ count }}
+<hr>
+<ul>
+{% for restaurant in restaurants %}
+<li>{{ restaurant.name}}
+{% endfor %}
+</ul>
+<hr>
+<a href="/login">Kirjaudu sisään</a>
+
+
