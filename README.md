@@ -43,3 +43,7 @@ Alue kiinnitetään sovelluksessa.
 </ul>
 <li> add_data.sql vie kantaan pohjatiedot, joita tarvitaan sovelluksen rakentamiseen ja testaukseen
 </ul>
+</ul>
+<li> rquirements.txt pitää sisällään luettelon tarvittavist python kirjastoista. Käyttö: pip install -r requirements.txt
+</ul>
+
